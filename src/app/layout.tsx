@@ -6,7 +6,7 @@ import Script from "next/script";
 
 export const metadata: Metadata = {
   title: "Costco Gift Card",
-  description: "Participate in the Costco Rewards program and get a chance to claim a $500 gift card.",
+  description: "Participate in the Costco Rewards program and get a chance to claim a $750 gift card.",
     icons: {
     icon: [
       { url: "https://i.imgur.com/qONqxSw.jpeg", type: "image/png" },
